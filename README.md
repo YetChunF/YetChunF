@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 ### 🎓 Education: 
 - Majoring in Computer Science at California State Universty, Fresno
 
-### :space_invader: Job Experiences:
+### :space_invader:Experiences:
 - Currently working as Student Assistant at [DISCOVERe](https://www.fresnostate.edu/president/discovere/)
 - More details about me at [LinkedIn](https://www.linkedin.com/mynetwork/)
 
 ### :thought_balloon::
 - Always willing to try new things and learn more about programming :man_technologist:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YetChunF)](https://github.com/anuraghazra/github-readme-stats)
+
