@@ -24,7 +24,5 @@ Here are some ideas to get you started:
 ### :thought_balloon::
 - Always willing to try new things and learn more about programming :man_technologist:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YetChunF)](https://github.com/anuraghazra/github-readme-stats)
--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YetChunF&langs_count=8)](https://github.com/YetChunF/github-readme-stats)
+
 
