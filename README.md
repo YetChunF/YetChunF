@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🎓 Education: 
-- Majoring in Computer Science at California State Universty, Fresno
+- Graduated with Bachelor of Science in Computer Science at California State Universty, Fresno 
 
 ### :space_invader:Experiences:
-- Currently working as Student Assistant at [DISCOVERe](https://www.fresnostate.edu/president/discovere/)
+- Worked as Lead Technical Support Representative at [DISCOVERe](https://www.fresnostate.edu/president/discovere/)
 - More details about me at [LinkedIn](https://www.linkedin.com/mynetwork/)
 
 ### :thought_balloon::
